@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[tool.poetry]
+name = "1DM"
+version = "1"
+description = "The first actually useful dotfile manager."
+authors = ["fschlegelone <fabian@schlegel.one>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+textual = "^0.52.1"
+tiptop = "^0.2.8"
+
+[tool.poetry.dev-dependencies]

@@ -1,0 +1,27 @@
+/* 
+Colors:
+background - #24273A
+text - #CAD3F5
+accent - #7DC4E4
+border - #B7BDF8
+*/
+Screen {
+    align: center middle;
+    background: #24273A;
+}
+
+CardHeader {
+    align: center middle;
+    background: #24273A;
+    width: 50%;
+    height: 10%;
+    border: #B7BDF8;
+}
+
+CardItems {
+    align: center middle;
+    background: #24273A;
+    width: 50%;
+    height: 5;
+    border: #B7BDF8;
+}
